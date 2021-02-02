@@ -7,6 +7,7 @@ let docClient = new AWS.DynamoDB.DocumentClient({
 
 interface MyEvent {
   body: string;
+  hi: string;
 }
 
 export const handler = async (event: MyEvent): Promise<any> => {
