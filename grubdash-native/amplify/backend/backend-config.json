@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "grubdashnative80d3c11f": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}

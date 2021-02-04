@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-grubdashnative-dev-110329-authRole",
+      "UnauthRoleArn": "arn:aws:iam::701190584422:role/amplify-grubdashnative-dev-110329-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::701190584422:role/amplify-grubdashnative-dev-110329-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-grubdashnative-dev-110329-deployment",
+      "UnauthRoleName": "amplify-grubdashnative-dev-110329-unauthRole",
+      "StackName": "amplify-grubdashnative-dev-110329",
+      "StackId": "arn:aws:cloudformation:us-west-2:701190584422:stack/amplify-grubdashnative-dev-110329/347744e0-60b9-11eb-a732-06b1b80a4e11",
+      "AmplifyAppId": "d1f4553jrgsdf1"
+    },
+    "categories": {
+      "auth": {
+        "grubdashnative80d3c11f": {}
+      }
+    }
+  }
+}
